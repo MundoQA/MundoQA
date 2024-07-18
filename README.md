@@ -10,3 +10,6 @@ profesional y personal.
 ## Contacto 
 Linkendin: https://www.linkedin.com/in/ehuapayagonzales/   
 Celular: 925021724.
+
+## Habilidades
+-AS400 | JIRA  | CONFLUENCE | C++
