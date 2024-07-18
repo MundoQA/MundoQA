@@ -10,3 +10,8 @@ profesional y personal.
 ## Contacto 
 Linkendin: https://www.linkedin.com/in/ehuapayagonzales/   
 Celular: 925021724.
+
+## Hobies
+- Viajar 
+- Escuchar Música.
+- Hacer deporte.
