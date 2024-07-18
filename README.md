@@ -10,3 +10,6 @@ profesional y personal.
 ## Contacto 
 Linkendin: https://www.linkedin.com/in/ehuapayagonzales/   
 Celular: 925021724.
+
+## Tecnologias
+Conjunto de teorías y de técnicas que permiten el aprovechamiento práctico del conocimiento científico
